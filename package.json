@@ -1,6 +1,6 @@
 {
   "name": "@aumstack/metamask-extends",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "description": "extends ehtereum object that injected from metamask to typescript",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -10,9 +10,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/seenark/metamask-expands"
   },
-  "homepage": "",
+  "homepage": "https://github.com/seenark/metamask-expands",
   "scripts": {},
   "keywords": [
     "metamask",

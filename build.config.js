@@ -12,6 +12,6 @@ require("esbuild").build({
     // external: ["ethers"],
     sourcemap: true,
     target: ["es2016"],
-    format: "esm",
+    format: "cjs",
     plugins: [dtsPlugin()]
 })
